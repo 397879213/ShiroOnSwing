@@ -10,14 +10,14 @@ Apache Shiro, Swing & Mysql
 Settings:
 ------------
 
-- buka & ubah  MyDataSource.java :
+- buka & ubah **MyDataSource.java** sesuaikan:
 
 ```javascript
  setJdbcUrl("jdbc:mysql://localhost/shiro_test");
  setUsername("root");
  setUsername("toor");
 ```
-- untuk membuat password hash gunakan HashCreator di package com.mymanager.security.tools;
+- untuk membuat password hash gunakan **HashCreator** di package **com.mymanager.security.tools**;
 
 
 
