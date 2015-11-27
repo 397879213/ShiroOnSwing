@@ -10,6 +10,8 @@ Apache Shiro, Swing & Mysql
 Settings:
 ------------
 
+- import **shiro_test.sql**
+
 - buka & ubah **MyDataSource.java** sesuaikan:
 
 ```javascript
