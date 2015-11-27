@@ -34,7 +34,7 @@ group **User**
  password : permisidong
 ```
 
-- to create password hash use **HashCreator** on package **com.mymanager.security.tools** then paste to **users** "password" field;
+- to create password hash use **HashCreator** on package **com.opass.security.tools** then paste to **users** "password" field;
 
 
 

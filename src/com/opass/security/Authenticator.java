@@ -1,4 +1,4 @@
-package com.mymanager.security;
+package com.opass.security;
 
 import javax.swing.JOptionPane;
 import org.slf4j.Logger;  

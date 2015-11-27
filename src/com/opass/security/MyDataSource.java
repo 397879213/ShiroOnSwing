@@ -1,4 +1,4 @@
-package com.mymanager.security;
+package com.opass.security;
 
 import com.jolbox.bonecp.BoneCPConfig;
 import com.jolbox.bonecp.BoneCPDataSource;

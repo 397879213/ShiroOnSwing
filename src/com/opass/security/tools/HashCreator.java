@@ -1,4 +1,4 @@
-package com.mymanager.security.tools;
+package com.opass.security.tools;
 
 import org.apache.shiro.crypto.hash.Md5Hash;
 

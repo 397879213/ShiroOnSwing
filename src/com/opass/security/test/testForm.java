@@ -1,7 +1,7 @@
-package com.mymanager.test;
+package com.opass.security.test;
 
 
-import com.mymanager.security.Authenticator;
+import com.opass.security.Authenticator;
 import javax.swing.JOptionPane;
 import org.apache.shiro.SecurityUtils;
 import org.apache.shiro.authz.AuthorizationException;
@@ -22,6 +22,7 @@ import org.slf4j.LoggerFactory;
 public class testForm extends javax.swing.JFrame {
 
      private static final Logger log = LoggerFactory.getLogger(testForm.class);  
+    private static final long serialVersionUID = -4299087640201088650L;
     private Authenticator authenticator;
     private Subject currentUser;
     private Session session;
