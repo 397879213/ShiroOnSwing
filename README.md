@@ -12,7 +12,7 @@ Settings:
 
 - import **shiro_test.sql**
 
-- buka & ubah **MyDataSource.java** sesuaikan:
+- open & change **MyDataSource.java** :
 
 ```javascript
  setJdbcUrl("jdbc:mysql://localhost/shiro_test");
@@ -34,7 +34,7 @@ group **User**
  password : permisidong
 ```
 
-- untuk membuat password hash gunakan **HashCreator** di package **com.mymanager.security.tools**;
+- to create password hash use **HashCreator** on package **com.mymanager.security.tools** then paste to **users** password field;
 
 
 
