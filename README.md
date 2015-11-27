@@ -17,7 +17,7 @@ Settings:
 ```javascript
  setJdbcUrl("jdbc:mysql://localhost/shiro_test");
  setUsername("root");
- setUsername("toor");
+ setPassword("toor");
 ```
 
 - compile & run **testForm**
