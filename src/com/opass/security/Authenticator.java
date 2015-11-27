@@ -75,7 +75,6 @@ public class Authenticator {
          
             // save current username in the session, so we have access to our User model
                 Session session = currentUser.getSession();  
-                session.setAttribute("someKey", "aValue");  
                 session.setAttribute("username", username);
               
             } catch (UnknownAccountException uae) {

@@ -129,14 +129,11 @@ public class testForm extends javax.swing.JFrame {
 
             //Storing some attributes
             session.setAttribute("Connected", "yes");
-            session.setAttribute("Group", "TB");
 
             //Retrieving attributes later on 
             String attribute = session.getAttribute("Connected").toString();
-            String Group = session.getAttribute("Group").toString();
 
             System.out.println("Connected : " + attribute);
-            System.out.println("Group : " + Group);
             btnLogin.setText("Logout");
             txtUsername.setEnabled(false);
             txtPassword.setEnabled(false);
