@@ -17,6 +17,14 @@ Settings:
  setUsername("root");
  setUsername("toor");
 ```
+
+- compile/run testForm.java
+
+```javascript
+ username : admin
+ password : admin1234
+```
+
 - untuk membuat password hash gunakan **HashCreator** di package **com.mymanager.security.tools**;
 
 
