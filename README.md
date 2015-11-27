@@ -20,7 +20,7 @@ Settings:
  setUsername("toor");
 ```
 
-- compile/run testForm.java
+- compile & run **testForm**
 
 ```javascript
  username : admin
