@@ -17,7 +17,7 @@ public class HashCreator {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        generatePassword("admin1234");
+        generatePassword("permisidong");
     }
 
     private static void generatePassword(String plainTextPassword) {

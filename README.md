@@ -23,8 +23,15 @@ Settings:
 - compile & run **testForm**
 
 ```javascript
+
+group **Admin**
  username : admin
  password : admin1234
+
+
+group **User**
+ username : agung
+ password : permisidong
 ```
 
 - untuk membuat password hash gunakan **HashCreator** di package **com.mymanager.security.tools**;
