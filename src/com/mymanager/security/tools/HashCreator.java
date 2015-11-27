@@ -1,9 +1,6 @@
 package com.mymanager.security.tools;
 
-import org.apache.shiro.crypto.RandomNumberGenerator;
-import org.apache.shiro.crypto.SecureRandomNumberGenerator;
 import org.apache.shiro.crypto.hash.Md5Hash;
-import org.apache.shiro.crypto.hash.Sha256Hash;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
