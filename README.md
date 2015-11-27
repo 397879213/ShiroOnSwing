@@ -1,5 +1,5 @@
-Apache Shiro Swing User Role 
-============================
+Apache Shiro Swing User Role based Authentication
+=================================================
 
 Apache Shiro, Swing & Mysql
 ---------------------------------------
